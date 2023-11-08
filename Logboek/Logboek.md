@@ -1,6 +1,9 @@
 # Logboek werkplekleren
 
 ## Logboek WPL 1
+Hieronder kunt u de planning terugvinden van heel werkplekleren 1, dit wordt gegeven over een periode van 14 weken (sept-jan 23/24).
+<img width="597" align=left alt="Planning WPL1" src="https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-ThyrsaEertmansPXL/assets/116871338/aa16c500-b46f-4eeb-a62e-0c6eec8e6c96">
+
 
 ## Logboek WPL 2
 
