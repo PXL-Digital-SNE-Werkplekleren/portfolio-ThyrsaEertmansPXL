@@ -7,7 +7,7 @@ Daarnaast helpt het portfolio je coaches om je beter te begeleiden, te ondersteu
 In het portfolio zal men alle opdrachten opschrijven en reflecteert men op de leerervaring. Het zet u aan het denken wat je gedaan hebt, hoe je het gedaan hebt en wat je er van vond.
 
 
-# persoonlijke info
+# Persoonlijke info
 - Eermans Thyrsa (19j)
 - Ordingen-Dorp 34A 0002, 3800 Sint-Truiden
 - thyrsa.eertmans@icloud.com
