@@ -2,6 +2,13 @@
 
 ## Reflectie WPL 1
 
+### Kernkwadranten
+
+| kernkwaliteit | valkuil | uitdaging | allergie |
+| ----------- | ----------- |----------- | ----------- |
+| Behulpzaam | weinig tijd voor mijn eigen dingen | meer voor mezelf dingen doen| ondankbaarheid |
+
+
 ### XPOSE (gastspreker)
   <p>Zelf vond ik het interessant om te horen welk traject hij afgelegd heeft voor te bekomen waar hij vandaag is 
 
