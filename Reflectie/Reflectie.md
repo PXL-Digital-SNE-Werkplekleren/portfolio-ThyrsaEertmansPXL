@@ -23,6 +23,32 @@
   
   En ook laat dit zien waar een wil is is een weg</p>
 
+### POP-sessies
+
+### X-factor 
+
+### Carglass (gastspreker 29/11/2023)
+<p>De gastspreker van vandaag was het hoofd van de servicedesk van carglass. Hij heeft het gehad over de service-desk van carglass en hoe hij in 2020 het hoofd hiervan werd. Toen hij destijds begon waren er veel klachten maar na 3 jaar goed werken heeft hij dit imens kunnen verlagen. 
+
+Zelf vond ik het zeer interesant om te horen hoe hij het probleem van de klantenservice (en alles daarrond) verbeterd heeft. 
+Dit heeft hij gedaan door door op verschillend vlakken onderzoek te doen en de bevindingen van de klanten in kaart te brengen, ook was hij zich gaan afvragen wat er verbeterd kon worden om de klantevredenheid terug om hoog te halen.
+  
+Zelf was de spreker kort en bondig over ieder onderwerp wat hij besprak, we kregen voldoende uitleg zodat we konden volgen en vertelde niets onnuttig. Dit maakte het ook aangenaam om naar te luisteren.
+
+Ook vond ik het heel leerrijk om te zien welke aspecten hij allemaal onderzoekt voor niet alleen 1 aspect te verbeteren maar de hele "circel" van de werkvloer te verbeteren. Zo kwamen er een paar zaken naar boven wat hij onderzocht had waar ikzelf niet aan gedacht zou hebben denk maar aan "voice of the custumer".
+
+Zou ik dit later willen doen als job? Het spreekt me wel aan om dit later als job te gaan doen, omdat hier continu afwisseling is van klanten met verschillende problemen. Want ik weet van mezelf dat ik graag van afwisseling hou. Zo hoef je mij dus niet één jaar aan 1 opdracht (bvb waar je maar 1 ding moet klaarmaken) zetten want dat is niets voor mij. 
+</p>
+
+
+
+
+
+
+
+
+  
+
 ## Reflectie WPL 2
 
 ## Reflectie WPL 3
