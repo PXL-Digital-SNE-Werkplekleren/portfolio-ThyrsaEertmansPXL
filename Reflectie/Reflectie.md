@@ -41,6 +41,11 @@ Zou ik dit later willen doen als job? Het spreekt me wel aan om dit later als jo
 </p>
 
 
+### Slotevaluatie
+(Hier zal op het einde van WPL1 een slotevaluatie geschreven worden)
+
+
+
 
 
 
