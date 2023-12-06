@@ -1,6 +1,14 @@
 # Opdrachten
 
 ## Opdrachten WPL 1
+### POP reflectieopdracht
+
+### POP opdracht planning
+
+### Carièrekompas
+
+### Taal-, KYSS- & Lemo-test
+
 ### Microsoft learn
 We kregen als opdracht om een traject te maken op microsoft learn, aangezien ik nog niet 100% weet welke richting ik specifiek uit wil gaan ben ik van plan verschillende trajecten te voltooien.
 
@@ -10,6 +18,9 @@ Laten we eerst starten met een kort traject waarin we de verschillen leren tusse
   <img src="../images/MicrosoftLearn1.png"  height="300" alt="score microsoft learn">
 
 </p>
+
+### Opdracht actualiteit
+
 
 
 
