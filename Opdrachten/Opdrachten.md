@@ -20,8 +20,23 @@ Laten we eerst starten met een kort traject waarin we de verschillen leren tusse
 </p>
 
 ### Opdracht actualiteit
+#### Is Artificiële Intelligentie een bedreiging voor ontwikkelaars of andere ICT-gerelateerde jobs? 
 
-
+- Leg eerst uit wat de stelling betekent. Leg eventuele nieuwe termen uit.
+  > Het suggereert dat AI mogelijk een bedreiging vormt voor ICT-gerelateerde banen. Dit wil echter zeggen dat er jobs/taken zullen zijn die overgenomen kunnen worden door
+  > AI, dit kan o.a. zorgen voor automatisering van bepaalde systemen en/of taken.
+   
+- Zoek enkele artikels / video's / ... op over het onderwerp en neem ze door, zodat je je mening nog beter kan vormen en/of je mening kan onderbouwen. Noteer de links naar de sites die je hebt geraadpleegd om je mening te vormen.
+  > geeft urls die je mening onderbouwen
+  >
+- Ben je het ermee eens of niet en waarom? Geef kritisch je mening en argumenteer dit uitgebreid. Geef ook voorbeelden om je standpunt 
+  duidelijk te maken. 
+  > Ik ben er zeker mee eens dat AI wel delen van ICT-gerelateerde jobs zal overnemen in de toekomst. <br>
+  > Hieronder enkele voorbeelden
+  >  1. Automatisering van herhalende/ gemakelijke taken van de mens overnemen zodat wij op andere taken kunnen focussen. 
+  >  2. AI kan grote hoeveelheden gegevens analyseren en verwerken, waardoor het ideaal is om inzichten te verkrijgen voordat er beslissingen worden genomen
+  >  3. Efficiënter
+  >  4. Verbeterde klanttevredenheid, omdat AI-chatbots en virtuele assistenten  een gepersonaliseerde en efficiënte klantenservice kunnen bieden 
 
 
 
