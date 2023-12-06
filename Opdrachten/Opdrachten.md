@@ -9,16 +9,6 @@
 
 ### Taal-, KYSS- & Lemo-test
 
-### Microsoft learn
-We kregen als opdracht om een traject te maken op microsoft learn, aangezien ik nog niet 100% weet welke richting ik specifiek uit wil gaan ben ik van plan verschillende trajecten te voltooien.
-
-Laten we eerst starten met een kort traject waarin we de verschillen leren tussen cloud-services. Ik heb het namelijk over IaaS, PaaS en SaaS. Na de uitleg van de verschillende services volgde er een kleine toets van 2 vragen.
-<p align="center">
-  
-  <img src="../images/MicrosoftLearn1.png"  height="300" alt="score microsoft learn">
-
-</p>
-
 ### Opdracht actualiteit
 ### Is Artificiële Intelligentie een bedreiging voor ontwikkelaars of andere ICT-gerelateerde jobs? ###
 
@@ -37,6 +27,18 @@ Laten we eerst starten met een kort traject waarin we de verschillen leren tusse
   >  2. AI kan grote hoeveelheden gegevens analyseren en verwerken, waardoor het ideaal is om inzichten te verkrijgen voordat er beslissingen worden genomen
   >  3. Efficiënter
   >  4. Verbeterde klanttevredenheid, omdat AI-chatbots en virtuele assistenten  een gepersonaliseerde en efficiënte klantenservice kunnen bieden 
+
+
+
+### Microsoft learn
+We kregen als opdracht om een traject te maken op microsoft learn, aangezien ik nog niet 100% weet welke richting ik specifiek uit wil gaan ben ik van plan verschillende trajecten te voltooien.
+
+Laten we eerst starten met een kort traject waarin we de verschillen leren tussen cloud-services. Ik heb het namelijk over IaaS, PaaS en SaaS. Na de uitleg van de verschillende services volgde er een kleine toets van 2 vragen.
+<p align="center">
+  
+  <img src="../images/MicrosoftLearn1.png"  height="300" alt="score microsoft learn">
+
+</p>
 
 
 
