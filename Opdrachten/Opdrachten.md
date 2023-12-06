@@ -20,7 +20,7 @@ Laten we eerst starten met een kort traject waarin we de verschillen leren tusse
 </p>
 
 ### Opdracht actualiteit
-#### Is Artificiële Intelligentie een bedreiging voor ontwikkelaars of andere ICT-gerelateerde jobs? 
+### Is Artificiële Intelligentie een bedreiging voor ontwikkelaars of andere ICT-gerelateerde jobs? ###
 
 - Leg eerst uit wat de stelling betekent. Leg eventuele nieuwe termen uit.
   > Het suggereert dat AI mogelijk een bedreiging vormt voor ICT-gerelateerde banen. Dit wil echter zeggen dat er jobs/taken zullen zijn die overgenomen kunnen worden door
