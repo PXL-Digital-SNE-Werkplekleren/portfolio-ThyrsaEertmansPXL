@@ -27,8 +27,8 @@ Laten we eerst starten met een kort traject waarin we de verschillen leren tusse
   > AI, dit kan o.a. zorgen voor automatisering van bepaalde systemen en/of taken.
    
 - Zoek enkele artikels / video's / ... op over het onderwerp en neem ze door, zodat je je mening nog beter kan vormen en/of je mening kan onderbouwen. Noteer de links naar de sites die je hebt geraadpleegd om je mening te vormen.
-  > geeft urls die je mening onderbouwen
-  >
+  > 1. https://medium.com/@aimannadeem27/ai-and-the-job-market-friend-or-foe-b499acbb0f28
+  > 2. https://www.upskilled.edu.au/skillstalk/will-ai-take-over-your-programming-job?fbclid=IwAR3GfItw4VLq2G0sa9-sFbUSAg1Wue2pSPwhoLnmtUuB37ezyRl4D7bvrXk
 - Ben je het ermee eens of niet en waarom? Geef kritisch je mening en argumenteer dit uitgebreid. Geef ook voorbeelden om je standpunt 
   duidelijk te maken. 
   > Ik ben er zeker mee eens dat AI wel delen van ICT-gerelateerde jobs zal overnemen in de toekomst. <br>
@@ -36,7 +36,10 @@ Laten we eerst starten met een kort traject waarin we de verschillen leren tusse
   >  1. Automatisering van herhalende/ gemakelijke taken van de mens overnemen zodat wij op andere taken kunnen focussen. 
   >  2. AI kan grote hoeveelheden gegevens analyseren en verwerken, waardoor het ideaal is om inzichten te verkrijgen voordat er beslissingen worden genomen
   >  3. Efficiënter
-  >  4. Verbeterde klanttevredenheid, omdat AI-chatbots en virtuele assistenten  een gepersonaliseerde en efficiënte klantenservice kunnen bieden 
+  >  4. Verbeterde klanttevredenheid, omdat AI-chatbots en virtuele assistenten  een gepersonaliseerde en efficiënte klantenservice kunnen bieden
+  >     
+  > Maar hiernaast is AI niet in staat om alle IT gerelateerde jobs over te nemen, AI is een handige tool die ook de mens verder kan helpen in hun taken.
+  > Stel u maar eens voor een wij zitten in Hasselt en er ligt een server plat aan de kust. AI is niet in staat om zich te verplaatsen naar het probleem, hiermee wil ik duidelijk maken dat mensen nog altijd nodig zijn.
 
 
 
