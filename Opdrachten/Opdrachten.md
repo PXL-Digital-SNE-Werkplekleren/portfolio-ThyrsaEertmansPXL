@@ -1,13 +1,34 @@
 # Opdrachten
 
 ## Opdrachten WPL 1
-### POP reflectieopdracht
+1. POP reflectieopdracht (Korte persoonlijke reflectieopdracht)
+
+2. Microsoft Learn ( een module op microsoft learn voltooien)
+   >We kregen als opdracht om een traject te maken op microsoft learn, aangezien ik nog niet 100% weet welke richting ik specifiek uit wil gaan ben ik van plan verschillende trajecten te voltooien.
+
+   >Laten we eerst starten met een kort traject waarin we de verschillen leren tussen cloud-services. Ik heb het namelijk over IaaS, PaaS en SaaS. Na de uitleg van de verschillende services volgde er een kleine toets van 2 vragen.
+   >![Microsoft Learn](../images/MicrosoftLearn1.png)
+
+
+3. POP opdracht planning ( Schematische planning maken van 2 weken)
+
+4. Carrièrekompas (Loopbaanplan opstellen)
+
+5. Link portfolio website (Github portfolio link uploaden)
+
+6. Linux (zelfstudie linux shells)
+
+7. Opdracht actualiteit (Reflectie opdracht over de impact van AI op de IT in willekeurige groepen)
+
+8. Opdracht netwerken (config files networks uploaden op github)
+
+9. Power App OLR (applicatie maken op powerapps)
+
+10. POP reflectieopdracht
+
 
 ### Microsoft learn
-We kregen als opdracht om een traject te maken op microsoft learn, aangezien ik nog niet 100% weet welke richting ik specifiek uit wil gaan ben ik van plan verschillende trajecten te voltooien.
 
-Laten we eerst starten met een kort traject waarin we de verschillen leren tussen cloud-services. Ik heb het namelijk over IaaS, PaaS en SaaS. Na de uitleg van de verschillende services volgde er een kleine toets van 2 vragen.
-![Microsoft Learn](../images/MicrosoftLearn1.png)
 
 ### Opdracht actualiteit
 ### Is Artificiële Intelligentie een bedreiging voor ontwikkelaars of andere ICT-gerelateerde jobs? ###
