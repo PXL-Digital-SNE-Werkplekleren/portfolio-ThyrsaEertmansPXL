@@ -7,11 +7,17 @@
 Noteer hier in max. 5 zinnen waarom je voor de opleiding “Systemen en Netwerken” gekozen hebt.
 Welk deel uit de opleiding interesseert jou het meest? Wat denk je te gaan doen later, in welk soort
 organisatie? (voor zover je daar al een beeld van hebt) Waarom denk je dat dit beroep bij jou past?
->
+> Ik heb voor de richting systeem- en netwerkbeheer gekozen omdat ik graag van afwisseling hou. Hierbij leunt mijn interesse meer naar de netwerkkant.
+> Dit komt doordat ik later mogelijks wil gaan werken als een netwerkengeneer. Dit zou bij mij passen omdat ik zeer flexibel ben qua werken en ook graag met mensen samen werk.
 
 ### Mijn beeld van dit beroep
 Beschrijf in min. 5 à 10 zinnen hoe jij de invulling van dit beroep ziet. Welk beeld heb je gekregen na
 het volgen van WPL1 (bv. door je analyse van vacatures, gastseminaries, opdrachten enz).
+> Als netwerk engeneer ben je iemand die flexibele werkuren heeft. Je kunt hybride werken, d.w.z zowel van thuis uit als ter plaatsen op de werkvloer. Ook zou het kunnen zijn dat men zich naar een ander bedrijf moet verplaatsen
+> om dan daar der servers terug te laten functioneren zodat de servers hun services terug kunnen aanbieden. Ook is eencreatief gedeelte waar men dan de netwerken moet ontwerpen naar de opdrachtgeven hun wensen. Maar het leukste van alles lijkt mij het
+> installeren van de servers henzelf en om de routers en switchen aan te sluiten en te configureren.
+>
+> Bij WPL1 heb ik een beeld gekregen dat er bij alles rond IT toch meer komt kijken dan ik eerst had gedacht. Maar dat maakt het juist leuker :).
 
 ### Competenties systemen en netwerken
 De leerdoelstellingen voor iemand die afstudeert in een graduaat systemen en netwerken staan in
