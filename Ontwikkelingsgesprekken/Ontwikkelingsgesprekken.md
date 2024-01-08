@@ -116,27 +116,26 @@ Je mag de volgende punten in bullets noteren maar je moet wel volledige, correct
 maken. Voorbeelden vind je in het voorbeeld-portfolio.
 
 Mijn belangrijke leermomenten van WPL1 waren de volgende:
-* ...
-* ...
-* ...
-
+* De labomomenten bij netwerken, hierbij maakten we gebruik van de software packet tracer van cisco.
+* Bij windows een windows server opstellen
+  
 
 Dit zijn mijn **sterke punten** die ik deze semester heb geïdentificeerd (technische en soft skills).
 Vertel er ook bij of je ze al gebruikt hebt en zo ja, hoe.
 Technische skills:
-* ...
-* ...
+* hardware: het samenstellen en monteren van een desktop, repareren van smartphones tijdens stage.
+* besturingssystemen: het opzetten van windows en linux servers alsook desktops
 
 
 Soft skills:
-* ...
-* ...
+* Flexibel 
+* Samenwerken
 
 
 Dit zijn mijn **ontwikkelpunten** waarin ik tijdens WPL2 beter hoop te worden:<br />
 (ontwikkelpunten zijn skills (technische/soft skills) waarin je beter wil worden, waarin je wil groeien)
-* ...
-* ...
+* kritisch denken
+* prioriteiten stellen
 
 ## Overzicht ontwikkelingsgesprekken WPL 2
 
