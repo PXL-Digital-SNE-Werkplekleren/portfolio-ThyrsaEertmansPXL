@@ -2,7 +2,6 @@
 
 ## Overzicht ontwikkelingsgesprekken WPL 1
 # Ontwikkeling
-#!!!WORDT NOG INGEVULD NA LAATSTE LES!!!!
 ### Mijn keuze voor de opleiding
 Noteer hier in max. 5 zinnen waarom je voor de opleiding “Systemen en Netwerken” gekozen hebt.
 Welk deel uit de opleiding interesseert jou het meest? Wat denk je te gaan doen later, in welk soort
