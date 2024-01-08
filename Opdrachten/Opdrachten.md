@@ -19,7 +19,7 @@
 6. Linux (zelfstudie linux shells)
 
 7. Opdracht actualiteit (Reflectie opdracht over de impact van AI op de IT in willekeurige groepen)
-
+   [Opdracht Actualiteit deel1.pdf](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-ThyrsaEertmansPXL/blob/main/images/Opdracht%20Actua%201.pdf)
 8. Opdracht netwerken (config files networks uploaden op github)
 
 9. Power App OLR (applicatie maken op powerapps)
