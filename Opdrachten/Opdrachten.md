@@ -25,7 +25,7 @@
 9. Opdracht netwerken (config files networks uploaden op github)
 
 10. Power App OLR (applicatie maken op powerapps)
-
+[ThyrsaEertmans_PowerApp.pdf](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-ThyrsaEertmansPXL/blob/5ed7639b13c4ab94a804f06635c800ca33d3f56d/ThyrsaEertmans_PowerApp.pdf)
 11. POP reflectieopdracht
 
 
