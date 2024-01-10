@@ -115,8 +115,8 @@ Je mag de volgende punten in bullets noteren maar je moet wel volledige, correct
 maken. Voorbeelden vind je in het voorbeeld-portfolio.
 
 Mijn belangrijke leermomenten van WPL1 waren de volgende:
-* De labomomenten bij netwerken, hierbij maakten we gebruik van de software packet tracer van cisco.
-* Bij windows een windows server opstellen
+* Reflecteren was iets dat ikzelf nog niet vaak gedaan had maar dit is wel iets wat frequent in deze opleiding gebruikt wordt.
+* Op een andere manier een planning leren maken.
   
 
 Dit zijn mijn **sterke punten** die ik deze semester heb geïdentificeerd (technische en soft skills).
