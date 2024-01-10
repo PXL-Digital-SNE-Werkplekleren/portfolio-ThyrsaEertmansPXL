@@ -26,7 +26,8 @@
 ### POP-sessies
 
 ### X-factor 
-
+>[X-factor.pdf](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-ThyrsaEertmansPXL/files/13886327/X-factor.pdf)
+ 
 ### Carglass (gastspreker 29/11/2023)
 <p>De gastspreker van vandaag was het hoofd van de servicedesk van carglass. Hij heeft het gehad over de service-desk van carglass en hoe hij in 2020 het hoofd hiervan werd. Toen hij destijds begon waren er veel klachten maar na 3 jaar goed werken heeft hij dit imens kunnen verlagen. 
 
