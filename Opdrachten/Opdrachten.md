@@ -2,6 +2,7 @@
 
 ## Opdrachten WPL 1
 1. POP reflectieopdracht (Korte persoonlijke reflectieopdracht)
+[Eertmans_Thyrsa_reflectie.pdf](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-ThyrsaEertmansPXL/files/13886377/Eertmans_Thyrsa_reflectie.pdf)
 
 2. Microsoft Learn ( een module op microsoft learn voltooien)
    >We kregen als opdracht om een traject te maken op microsoft learn, aangezien ik nog niet 100% weet welke richting ik specifiek uit wil gaan ben ik van plan verschillende trajecten te voltooien.
@@ -11,25 +12,29 @@
 
 
 3. POP opdracht planning ( Schematische planning maken van 2 weken)
+[Eertmans_Thyrsa_planning(1).pdf](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-ThyrsaEertmansPXL/files/13886373/Eertmans_Thyrsa_planning.1.pdf)
+[Eertmans_Thyrsa_takenlijst+.pdf](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-ThyrsaEertmansPXL/files/13886374/Eertmans_Thyrsa_takenlijst%2B.pdf)
 
 4. Carrièrekompas (Loopbaanplan opstellen)
+[Eertmans_Thyrsa_mijn_loopbaan.pdf](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-ThyrsaEertmansPXL/files/13886375/Eertmans_Thyrsa_mijn_loopbaan.pdf)
 
 5. Link portfolio website (Github portfolio link uploaden)
 
-6. Linux (zelfstudie linux shells)
+6. Linux (zelfstudie linux shells, gevolgd door een toets over de te leren leerstof)
 
 7. Opdracht actualiteit (Reflectie opdracht over de impact van AI op de IT in willekeurige groepen)
-   [Opdracht Actualiteit deel1.pdf](../images/Opdracht%20Actua%201.pdf)
-   [Opdracht Actua](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-ThyrsaEertmansPXL/blob/32f318f9e870dd2a63d31b5dca976431c73db0dc/images/Opdracht%20Actua%201.pdf)
-   
+[Opdracht Actua 1.pdf](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-ThyrsaEertmansPXL/files/13886336/Opdracht.Actua.1.pdf)
+
    
 9. Opdracht netwerken (config files networks uploaden op github)
 
 10. Power App OLR (applicatie maken op powerapps)
-[ThyrsaEertmans_PowerApp.pdf](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-ThyrsaEertmansPXL/blob/5ed7639b13c4ab94a804f06635c800ca33d3f56d/ThyrsaEertmans_PowerApp.pdf)
+[ThyrsaEertmans_PowerApp.pdf](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-ThyrsaEertmansPXL/files/13886338/ThyrsaEertmans_PowerApp.pdf)
+
 
 12. POP reflectieopdracht
 
+[X-factor.pdf](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-ThyrsaEertmansPXL/files/13886327/X-factor.pdf)
 
 ### Microsoft learn
 
