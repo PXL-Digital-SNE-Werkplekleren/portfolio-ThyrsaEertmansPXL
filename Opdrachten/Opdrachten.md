@@ -30,8 +30,6 @@
 10. Power App OLR (applicatie maken op powerapps)<br>
 > [ThyrsaEertmans_PowerApp.pdf](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-ThyrsaEertmansPXL/files/13886338/ThyrsaEertmans_PowerApp.pdf)
 
-12. POP reflectieopdracht<br>
-> [X-factor.pdf](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-ThyrsaEertmansPXL/files/13886327/X-factor.pdf)
 
 ## Opdrachten WPL 2
 
