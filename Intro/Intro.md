@@ -8,6 +8,8 @@ In het portfolio zal men alle opdrachten opschrijven en reflecteert men op de le
 
 
 # Persoonlijke info
+[Thyrsa-EertmansCV2024.pdf](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-ThyrsaEertmansPXL/files/13886565/Thyrsa-EertmansCV2024.pdf)
+
 - Eermans Thyrsa (19j)
 - Ordingen-Dorp 34A 0002, 3800 Sint-Truiden
 - thyrsa.eertmans@icloud.com
@@ -15,7 +17,7 @@ In het portfolio zal men alle opdrachten opschrijven en reflecteert men op de le
 - Middelbaar diploma in Industriële ICT
 - Hobby’s: Rally, stickers maken, aan auto's sleutelen
   
-[Thyrsa-EertmansCV2024.pdf](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-ThyrsaEertmansPXL/files/13886565/Thyrsa-EertmansCV2024.pdf)
+
 <img width="437" alt="Scherm_afbeelding 2024-01-05 om 13 53 59" src="https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-ThyrsaEertmansPXL/assets/116871338/067aaaa1-2af0-4776-b1c1-fa4a6ee72a32">
 <img width="437" alt="Scherm_afbeelding 2024-01-05 om 13 54 11" src="https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-ThyrsaEertmansPXL/assets/116871338/7a278f71-9107-4bba-8af4-530efbe6860e">
 
