@@ -20,13 +20,15 @@
 
 7. Opdracht actualiteit (Reflectie opdracht over de impact van AI op de IT in willekeurige groepen)
    [Opdracht Actualiteit deel1.pdf](../images/Opdracht%20Actua%201.pdf)
+   [Opdracht Actua](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-ThyrsaEertmansPXL/blob/32f318f9e870dd2a63d31b5dca976431c73db0dc/images/Opdracht%20Actua%201.pdf)
    
    
 9. Opdracht netwerken (config files networks uploaden op github)
 
 10. Power App OLR (applicatie maken op powerapps)
 [ThyrsaEertmans_PowerApp.pdf](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-ThyrsaEertmansPXL/blob/5ed7639b13c4ab94a804f06635c800ca33d3f56d/ThyrsaEertmans_PowerApp.pdf)
-11. POP reflectieopdracht
+
+12. POP reflectieopdracht
 
 
 ### Microsoft learn
