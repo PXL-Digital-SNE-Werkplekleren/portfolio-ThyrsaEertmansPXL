@@ -30,6 +30,11 @@
 10. Power App OLR (applicatie maken op powerapps)<br>
 > [ThyrsaEertmans_PowerApp.pdf](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-ThyrsaEertmansPXL/files/13886338/ThyrsaEertmans_PowerApp.pdf)
 
+Mijn top 3 opdrachten waren planning maken, power app en opdracht actualiteit.
+De planning maken was natuurlijk het leerrijkste van allemaal omdat dit meer structuur geeft en het is me ook het meeste bijgebleven. Dan de powerapp was zeer interessant
+om eens te maken en er mee leren werken. En als laatste de opdracht actua, deze opdracht was in het eerste deel wel normaal maar het 2de deel was het leukste aangezien we hier
+in groep konden en mochten samenwerken. Ook was het goed verdeeld door de leerkracht die gebruik maakten van een tool om de hele groep in willikeurige groepen te verdelen en zo leerden we ook met "onbekende" studenten samenwerken.
+
 
 ## Opdrachten WPL 2
 
