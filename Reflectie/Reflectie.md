@@ -44,17 +44,8 @@ Zou ik dit later willen doen als job? Het spreekt me wel aan om dit later als jo
 
 
 ### Slotevaluatie
-(Hier zal op het einde van WPL1 een slotevaluatie geschreven worden)
+De afgelopen tijd heb ik veel geleerd over mezelf, zoals mijn sterke punten en valkuilen. De gastspreker bij XPOSE, die van kok naar cybersecurity-expert ging, inspireerde me. Zijn snelle succes toonde aan dat doorzettingsvermogen en passie belangrijk zijn. In de sessies over persoonlijke ontwikkeling kreeg ik inzicht in mijn doelen en 'X-factor'. De gastspreker van Carglass liet zien hoe hij klantenservice verbeterde door grondig onderzoek. Dit sprak me aan en deed me nadenken over een toekomstige rol in klantenservice. Kortom, deze periode heeft mijn zelfinzicht vergroot en mijn carrièredoelen verhelderd. Het is een voortdurende reis van groei en ontwikkeling die me motiveert om mijn volledige potentieel te benutten.
 
-
-
-
-
-
-
-
-
-  
 
 ## Reflectie WPL 2
 
