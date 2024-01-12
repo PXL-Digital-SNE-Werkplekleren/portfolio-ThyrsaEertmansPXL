@@ -24,7 +24,7 @@
   En ook laat dit zien waar een wil is is een weg</p>
 
 ### POP-sessies
-[POP reflectie.pdf](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-ThyrsaEertmansPXL/files/13920686/POP.reflectie.pdf)
+>[POP reflectie.pdf](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-ThyrsaEertmansPXL/files/13920686/POP.reflectie.pdf)
 
 ### X-factor 
 >[X-factor.pdf](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-ThyrsaEertmansPXL/files/13886327/X-factor.pdf)
