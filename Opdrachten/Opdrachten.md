@@ -39,6 +39,17 @@ in groep konden en mochten samenwerken. Ook was het goed verdeeld door de leerkr
 ## Opdrachten WPL 2
 Tijdens WPL2 heb ik verchillende taken voltooid. Allereerst had ik een nieuwe installatie uitgevoerd van een linux server. Daarna creëerde ik een netwerkschema om de netwerkstructuur duidelijk te visualiseren. Vervolgens heb ik pfSense gebruikt om een firewall toe te passen ter versterking van de netwerkbeveiliging. Verder heb ik ook roaming profiles geconfigureerd, zodat gebruikers hun instellingen op meerdere computers kunnen behouden, en een file server opgezet voor centrale bestandsopslag en -beheer. Ik zorgde ervoor dat cruciale systeeminformatie zichtbaar was op de desktops van gebruikers door middel van BGinfo. Ik heb ook een opdracht van Cisco gemaakt in Packet Tracer die ons schoolnetwerk nabootste. Ik maakte ook mijn eigen website voor het tonen van de schoolwebsite en heb de PRTG-monitoringtool gebruikt om het netwerk te controleren en problemen te analyseren. 
 
+Eindpresentatie
+> [“WPL2PresentatieTeam1.pdf](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-ThyrsaEertmansPXL/files/15465749/Eindpresentatie.WPL2.pdf)
+
+>[2023-2024 SNE_WPL2 - Team01 - Oplevering - PFsense.pdf](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-ThyrsaEertmansPXL/files/15465945/2023-2024.SNE_WPL2.-.Team01.-.Oplevering.-.PFsense.pdf)
+
+>[2023-2024 SNE_WPL2 - Team01 - Oplevering - FullVersion.zip](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-ThyrsaEertmansPXL/files/15465950/2023-2024.SNE_WPL2.-.Team01.-.Oplevering.-.Google.Documenten.pdf.zip)
+
+
+
+
+
 
 ## Opdrachten WPL 3
 
