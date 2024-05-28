@@ -13,6 +13,7 @@ Hieronder kunt u de planning terugvinden van heel werkplekleren 1, dit wordt geg
 ![Alt Text](../images/WeekplanningWPL1.png)
 
 ## Logboek WPL 2
+Zie Opdrachten en Reflectie
 
 ## Logboek WPL 3
 
