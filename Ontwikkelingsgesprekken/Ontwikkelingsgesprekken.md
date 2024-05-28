@@ -137,6 +137,7 @@ Dit zijn mijn **ontwikkelpunten** waarin ik tijdens WPL2 beter hoop te worden:<b
 * prioriteiten stellen
 
 ## Overzicht ontwikkelingsgesprekken WPL 2
+Zie Opdrachten en Reflectie
 
 ## Overzicht ontwikkelingsgesprekken WPL 3
 
