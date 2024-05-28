@@ -53,11 +53,16 @@ Onze teamsamenwerking verliep over het algemeen goed, en zelf vond ik de taken o
 Wat goed lukte:
 
 > Opzetten en configureren van de Linux-server
+
 > Installeren van pfSense en verbeteren van de netwerkbeveiliging
+
 > Bouwen van de persoonlijke website
+
+
 Wat minder goed ging:
 
 > Af en toe moeizame communicatie en het maken van afspraken
+
 > Instellen van roaming profiles was uitdagend
 
 Door deze opdrachten ben ik zowel op technisch vlak als op het gebied van soft skills gegroeid. Zo ben ik meer gaan analyseren voor alleer ik iets deed en maakte ik een todo welke stappen ik allemaal moest uitvoeren om tot een werkend geheel te geraken.
